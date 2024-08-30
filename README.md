@@ -1,6 +1,6 @@
 # Descrição
 MyGuilds é uma aplicação desenvolvida em Java para gerenciar jogadores e jogos dentro de uma guilda. A aplicação permite o cadastro, edição e remoção de jogadores, bem como a organização dos jogos em que eles participam. 
-Também oferece controle de acesso robusto para garantir que apenas usuários autorizados possam acessar ou modificar os dados.
+Também oferece controle de acesso para garantir que apenas usuários autorizados possam acessar ou modificar os dados.
 
 ## 🔨 Funcionalidades
 Cadastro de Jogadores: Permite adicionar novos jogadores à guilda, com informações detalhadas como nome, nível, função, e preferências de jogo.
